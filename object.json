@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "name": "Raúl",
+    "lastname": "Bautista",
+    "income": "$00,000.00",
+    "phone": "ZZ-ZZ-ZZ-ZZ-ZZ",
+    "email": "correo@correo.com",
+    "address": {
+        "city": "Some City",
+        "state": "Some State",
+        "street": "Some Street"
+    },
+    "job": {
+        "experience": "More to 2 years",
+        "stack": {
+            "frontend": "Vue",
+            "backend": "Python / Django",
+            "cloud": "AWS"
+        }
+    }
+}
